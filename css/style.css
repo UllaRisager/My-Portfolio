@@ -120,7 +120,7 @@ footer h2 {
 /* --- About section --- */
 .about-section {
   background-color: #444;
-  min-height: 70vh;
+  padding: 5%;
 }
 
 .about-section-content {
